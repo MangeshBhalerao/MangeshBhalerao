@@ -1,20 +1,65 @@
-# 💫 About Me:
-I’m a Full Stack Developer passionate about building modern, scalable web applications. I specialize in Next.js for frontend development and Flask for backend APIs, creating seamless and efficient digital experiences
+# 👋 Hi, I’m Mangesh Bhalerao
 
+I’m a **Full-Stack Developer** who enjoys building real products end-to-end — from clean, responsive interfaces to reliable backend systems.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mangesh-bhalerao-149542282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+I primarily work with **Next.js on the frontend** and **Python (Flask / FastAPI) on the backend**, focusing on performance, clarity, and scalability.  
+I like understanding *how things work under the hood*, not just making them work.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+Currently exploring:
+- Backend-heavy systems
+- Audio & ML-driven applications
+- Scalable APIs and deployment workflows
 
+---
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=MangeshBhalerao&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MangeshBhalerao&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mangesh-bhalerao-149542282)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/mangesh_047)
+---
 
+## 🛠️ Tech I Work With
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MangeshBhalerao&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
+**Core**
+- Python · JavaScript
+- Next.js · Flask · FastAPI
+- PostgreSQL · REST APIs
 
+**Dev & Deployment**
+- Docker · Git · GitHub
+- Vercel · Render
 
+**ML & Data (Foundational)**
+- scikit-learn · PyTorch
+
+**Design**
+- Tailwind CSS · Adobe Photoshop
+
+> I prefer mastering fewer tools deeply rather than knowing many at a surface level.
+
+---
+
+## 📈 GitHub Activity
+
+<p align="left">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=MangeshBhalerao&theme=react&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MangeshBhalerao&layout=compact&theme=react&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Highlights
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=MangeshBhalerao&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8" />
+</p>
+
+---
+
+### 📌 What You’ll Find on My GitHub
+- End-to-end projects (frontend + backend)
+- Practical problem-solving over tutorials
+- Code written to be **understood**, not just executed
+
+📬 Open to internships, collaborations, and meaningful product work.
