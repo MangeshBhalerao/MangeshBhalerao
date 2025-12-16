@@ -20,19 +20,16 @@ Currently exploring:
 ## 🛠️ Tech I Work With
 
 **Core**
-- Python · JavaScript
-- Next.js · Flask · FastAPI
-- PostgreSQL · REST APIs
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 **Dev & Deployment**
-- Docker · Git · GitHub
-- Vercel · Render
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 
 **ML & Data (Foundational)**
-- scikit-learn · PyTorch
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **Design**
-- Tailwind CSS · Adobe Photoshop
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 > I prefer mastering fewer tools deeply rather than knowing many at a surface level.
 
@@ -44,16 +41,6 @@ Currently exploring:
   <img src="https://nirzak-streak-stats.vercel.app/?user=MangeshBhalerao&theme=react&hide_border=true" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MangeshBhalerao&layout=compact&theme=react&hide_border=true" />
-</p>
-
----
-
-## 🏆 Highlights
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=MangeshBhalerao&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8" />
-</p>
 
 ---
 
